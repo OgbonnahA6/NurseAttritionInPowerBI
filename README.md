@@ -113,7 +113,7 @@ ________________________________________
     - Nurses facing a combination of high overtime, low income, and poor satisfaction scores are the most likely to leave.
 ________________________________________
 ## D.	Proposed Retention Strategy Plan
-### Recommendations:
+
 - **1.	Workload and Burnout:**
   - Hire additional staff to reduce dependency on overtime.
   - Introduce equitable scheduling to balance workloads.
