@@ -1,7 +1,8 @@
 ![NurseAttr2](https://github.com/user-attachments/assets/aeab5285-0841-46a6-8250-a7a4ce7a2bbc) ![image](https://github.com/user-attachments/assets/43636907-c4b9-410a-b2e1-7694bf2c74c0)
 
 
-# Nurse Attrition in the Organization Report
+# Nurse Attrition Analysis and Strategic Retention Plan
+
 ## A.	Current State of Nurse Attrition
 This report summarizes the current state of nurses’ attrition, focusing on turnover rates, reasons for leaving, and demographic insights. The analysis highlights trends and contributing factors to provide a clear picture of the challenges faced by the organization.
 ________________________________________
